@@ -6,5 +6,6 @@
 
 ### LogisticRegression - CART - SVM 
 
-  öznitelikleri çıkartılmış hazırlanmış ses verilerinin  logistic regresyon , cart(desitionTree regresyon) ve support vector machine(SVM)  ile en iyi r^2 degerini bulmaya çalıştığım uygulama  
+  -The application where I try to find the best r ^ 2 value with logistic regression, cart (desitionTree regression) and support vector machine (SVM).
+  -Lojistik regresyon, cart (desitionTree regresyon) ve destek vektör makinesi (SVM) ile en iyi r ^ 2 değerini bulmaya çalıştığım uygulama.
 
